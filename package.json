@@ -35,10 +35,6 @@
     "prepare": "husky",
     "docs": "typedoc --plugin typedoc-plugin-markdown --disableSources --out docs/api && prettier --write docs/api"
   },
-  "dependencies": {
-    "tslint": "^5.20.1",
-    "typescript": "^5.9.3"
-  },
   "files": [
     "./bin/*",
     "./lib/*"
