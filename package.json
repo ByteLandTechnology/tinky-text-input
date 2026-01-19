@@ -1,29 +1,25 @@
 {
-  "name": "tinky",
+  "name": "tinky-text-input",
   "version": "0.1.0",
-  "description": "React for CLIs, re-imagined with the Taffy engine",
+  "description": "A text input component for Tinky",
   "keywords": [
-    "react",
-    "ink",
-    "taffy",
+    "tinky",
+    "text-input",
+    "component",
     "cli",
-    "terminal",
-    "layout-engine",
-    "flexbox",
-    "grid",
-    "renderer"
+    "react"
   ],
-  "homepage": "https://github.com/ByteLandTechnology/tinky#readme",
+  "homepage": "https://github.com/ByteLandTechnology/tinky-text-input#readme",
   "bugs": {
-    "url": "https://github.com/ByteLandTechnology/tinky/issues"
+    "url": "https://github.com/ByteLandTechnology/tinky-text-input/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ByteLandTechnology/tinky.git"
+    "url": "git+https://github.com/ByteLandTechnology/tinky-text-input.git"
   },
   "license": "MIT",
   "author": {
-    "name": "ByteLandTechnology"
+    "name": "ByteLand Technology Limited"
   },
   "type": "module",
   "main": "./lib/index.js",
@@ -40,6 +36,9 @@
     "./lib/*"
   ],
   "typings": "./lib/index.d.ts",
+  "peerDependencies": {
+    "tinky-keypress": ">=1.2.0"
+  },
   "devDependencies": {
     "@commitlint/cli": "^20.3.0",
     "@commitlint/config-conventional": "^20.3.0",

@@ -1,4 +1,8 @@
-[简体中文](./README.zh-CN.md) | [日本語](./README.ja-JP.md)
+**tinky-text-input**
+
+---
+
+[简体中文](_media/README.zh-CN.md) | [日本語](_media/README.ja-JP.md)
 
 # tinky-text-input
 
