@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/ByteLandTechnology/tinky-text-input/compare/v1.0.0...v1.0.1) (2026-02-04)
+
+### 🔧 Chores
+
+- **deps:** move tinky-keypress to dependencies ([a4d64aa](https://github.com/ByteLandTechnology/tinky-text-input/commit/a4d64aa356e3d5983576140fba8e7d215adb250f))
+
 ## 1.0.0 (2026-01-19)
 
 ### ✨ Features
